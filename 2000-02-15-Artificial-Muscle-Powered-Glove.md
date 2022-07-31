@@ -21,7 +21,7 @@ Edmond Torskiy
 Will Gerhard
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Artificial-Muscle-Powered-Glove"" >Artificial-Muscle-Powered-Glove</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Artificial-Muscle-Powered-Glove" >Artificial-Muscle-Powered-Glove</a>
 
 ## Photo
 
