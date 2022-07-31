@@ -9,8 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Edmond Torskiy
-Will Gerhard
+author: Edmond Torskiy, Will Gerhard
 show_sidebar: false
 ---
 
